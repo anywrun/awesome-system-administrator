@@ -1,3 +1,5 @@
-@@ -1,4 +1,4 @@
-# awesome-system-administrator :ru
+# Awesome-system-administrator :ru
 
+Список актуальной 📚 документацией для System-администратора,
+
+-[]
