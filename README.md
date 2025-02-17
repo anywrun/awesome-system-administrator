@@ -1,4 +1,4 @@
-# Awesome-system-administrator :ru
+# Awesome-system-administrator
 
 Список актуальной 📚 документацией для System-администратора,
 
