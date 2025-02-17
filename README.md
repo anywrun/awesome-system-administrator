@@ -4,5 +4,4 @@
 
 ## Языки программирования
 
-_Python, 
 - [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)
